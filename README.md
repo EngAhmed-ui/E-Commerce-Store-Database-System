@@ -12,21 +12,16 @@ A complete database solution for an e-commerce store, featuring product manageme
 
 ## 📊 Database Design
 ### Entity-Relationship Diagram (ERD)
-![ERD Diagram](images/erd_diagram.png)
+<img width="1500" height="984" alt="image" src="https://github.com/user-attachments/assets/c771bbe5-010e-418f-b378-57a37a7f2a49" />
+
 
 ### Logical Schema
-![Logical Design](images/logical_design.png)
+<img width="1500" height="1031" alt="image" src="https://github.com/user-attachments/assets/2fe445f2-96b5-411a-b05b-4d9240cf48ab" />
 
 ## 🛠️ Technologies Used
 * **SQL (DDL/DML):** For database creation, constraints, and data manipulation.
 * **PHP:** Developed with AI assistance to create a clean, vanilla application structure.
 * **Visual Paradigm:** Used for professional ERD and logical database modeling.
-
-## 📁 Project Structure
-Based on the project documentation, the application follows this organization:
-- `customer/`: Checkout, orders, and profile management.
-- `includes/`: Core utility functions, headers, and footers.
-- `url/products/`: Storage for product images.
 
 ---
 **Developer:** Ahmed Hany Samir Ahmed  
