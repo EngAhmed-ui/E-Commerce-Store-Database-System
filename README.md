@@ -24,5 +24,5 @@ A complete database solution for an e-commerce store, featuring product manageme
 * **Visual Paradigm:** Used for professional ERD and logical database modeling.
 
 ---
-**Developer:** Ahmed Hany Samir Ahmed  
+**Developer:** Ahmed Hany  
 **Submission Date:** December 22, 2025
